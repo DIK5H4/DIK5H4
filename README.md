@@ -1,11 +1,14 @@
-# Dikshaaa-Jadhav
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dikshaaa Jadhav
 =======================================================================================================================================
 
 Software Developer | Tester
 ---------------------------
 
-🌟 I completed a three-month internship as a Website Tester. 🎓 Final-year Master's student in Computer Science at K.C. College, Mumbai. 🚀 Currently learning HTML, CSS, JavaScript, and Python to sharpen my skills. 📧 Feel free to reach out at dikshajadhav1221@gmail.com!
+-🌟 I completed a three-month internship as a Website Tester.
+-🎓 Final-year Master's student in Computer Science at K.C. College, Mumbai.
+-🚀 Currently learning HTML, CSS, JavaScript, and Python to sharpen my skills.
+-📧 Feel free to reach out at dikshajadhav1221@gmail.com!
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [dikshajadhav1221@gmail.com](mailto:dikshajadhav1221@gmail.com)### Skills 
